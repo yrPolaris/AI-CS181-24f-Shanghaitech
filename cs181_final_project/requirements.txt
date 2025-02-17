@@ -1,0 +1,9 @@
+gym[atari]
+atari-py
+wandb
+opencv-python
+numpy
+torch
+torchvision
+Pillow
+scikit-learn
